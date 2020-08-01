@@ -7,7 +7,7 @@
   Majoring in computer engineering
    I will be open the new challenges 🌱
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano)]
 ====================================================================================================================================================================================
 <!--
 **lucianojunnior17/lucianojunnior17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
