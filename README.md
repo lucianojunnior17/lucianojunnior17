@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm Luciano Jr. Passionate about tech,
+ I'm Luciano Jr. from Brazil (Br) Passionate about tech,
   nerd and fan of Japanese pop culture.
  I believe that technology is changing the world and it's
   getting better because of that,
