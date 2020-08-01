@@ -1,4 +1,10 @@
 ### Hi there 👋
+ I'm Luciano Jr. Passionate about tech,
+  nerd and fan of Japanese pop culture.
+ I believe that technology is changing the world and it's
+  getting better because of that,
+  Majoring in computer engineering
+   I will be open the new challenges 🌱
 
 <!--
 **lucianojunnior17/lucianojunnior17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
