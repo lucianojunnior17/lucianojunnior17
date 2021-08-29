@@ -16,3 +16,4 @@
 
 
 https://www.linkedin.com/in/luciano-lima-do-nascimento-junior-51ab05170/
+https://www.linkedin.com/in/luciano-lima-do-nascimento-junior-51ab05170?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FI0C59LsQWiI3%2BMSqcSYNQ%3D%3D
