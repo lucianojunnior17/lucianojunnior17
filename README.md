@@ -14,3 +14,5 @@
 <!--
 **lucianojunnior17/lucianojunnior17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+https://www.linkedin.com/in/luciano-lima-do-nascimento-junior-51ab05170/
