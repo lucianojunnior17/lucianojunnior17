@@ -7,7 +7,7 @@
   Majoring in computer engineering
    I will be open the new challenges ✌️
  
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-lima-do-nascimento-junior-51ab05170?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FI0C59LsQWiI3%2BMSqcSYNQ%3D%3D/]
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-lima-do-nascimento-junior-51ab05170/]
 
    
 
