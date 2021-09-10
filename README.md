@@ -7,6 +7,9 @@
   Majoring in computer engineering
    I will be open the new challenges ✌️
    
+   PT-Br) Apaixonado por tecnologia e fã da cultura pop japonesa e gosto de assistir filmes. Acredito que a tecnologia está mudando o mundo e está ficando cada vez melhor, graduando em engenharia da computação aberto aos novos desafios. ✌️
+   <br>
+   
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianojunnior17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianojunnior17&layout=compact&langs_count=7&theme=dracula"/>
