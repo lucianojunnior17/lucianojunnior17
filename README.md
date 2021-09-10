@@ -28,10 +28,13 @@
 
  <div>
   <a href = "mailto:engluciano.junior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luciano-lima-51ab05170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/luciano-lima-do-nascimento-junior-51ab05170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
  ##
  
+- ##### [Link p/Linkedin ](https://www.linkedin.com/in/luciano-lima-do-nascimento-junior-51ab05170/)
+ 
+ https://www.linkedin.com/in/luciano-lima-do-nascimento-junior-51ab05170/
 
 </div>
  
