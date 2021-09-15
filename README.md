@@ -7,6 +7,8 @@
   Majoring in computer engineering
    I will be open the new challenges ✌️
    
+   <br>
+   
    PT-Br) Apaixonado por tecnologia e fã da cultura pop japonesa e gosto de assistir filmes. Acredito que a tecnologia está mudando o mundo e está ficando cada vez melhor, graduando em engenharia da computação aberto aos novos desafios. ✌️
    <br>
    
