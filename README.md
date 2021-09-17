@@ -38,6 +38,9 @@
  ##
  
 - ##### [Link p/Linkedin ](https://www.linkedin.com/in/luciano-lima-do-nascimento-junior-51ab05170/)
+ - ##### [Link p/Linkedin ](https://www.linkedin.com/in/lucianolimajr/)
+ 
+
  
 </div>
  
