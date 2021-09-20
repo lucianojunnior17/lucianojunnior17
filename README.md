@@ -39,7 +39,14 @@
  
 - ##### [Link p/Linkedin ](https://www.linkedin.com/in/luciano-lima-do-nascimento-junior-51ab05170/)
  - ##### [Link p/Linkedin ](https://www.linkedin.com/in/lucianolimajr/)
- 
+ <p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/lucianojunnior17/count.svg" />
+ </p>
+
+</p>
 
  
 </div>
