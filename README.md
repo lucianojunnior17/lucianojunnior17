@@ -1,3 +1,6 @@
+<div>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucianojunnior17" alt="lucianojunnior17" /> 
+
 ### Hi there 👋
  I'm Luciano Jr. from Brazil 🇧🇷 Passionate about tech 🖥️,
   nerd and fan of Japanese pop culture  and  like to watch  Marvel 
@@ -6,6 +9,8 @@
   getting better because of that,
   Majoring in computer engineering
    I will be open the new challenges ✌️
+ 
+ </div>
    
    <br>
    
