@@ -29,8 +29,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="bootstap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
- <img align="center" alt="php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
- <img align="center" alt="Node-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
  <img align="center" alt="Word-Press" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
  </div>
  
