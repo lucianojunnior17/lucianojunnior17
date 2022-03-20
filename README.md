@@ -38,8 +38,7 @@
  ##
 
  <div>
-  <a href = "mailto:engluciano.junior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luciano-lima-do-nascimento-junior-51ab05170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href="https://www.linkedin.com/in/luciano-lima-do-nascimento-junior-51ab05170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
  ##
  
@@ -57,6 +56,10 @@
 
 <div>
     <img align="center" width="150%" src="https://raw.githubusercontent.com/vlarysc/vlarysc/f2045a28a8eac6f85ce4ff809312cdeaa0c3eaf3/assets/marquee.svg" alt="fullstack developer animated image"/>
+ 
+ ## 📩 &nbsp;Entre em contato
+
+  engluciano.junior@gmail.com
  
  </div>
  
