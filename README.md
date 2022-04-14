@@ -1,7 +1,8 @@
 <div>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucianojunnior17" alt="lucianojunnior17" /> 
 
-### Hi there 👋
+### Olá, me chamo Luciano Lima Jr ! 
+### Bem vindo ao meu perfil GitHub 👋👋
  I'm Luciano Jr. from Brazil 🇧🇷 Passionate about tech 🖥️,
   nerd and fan of Japanese pop culture  and  like to watch  Marvel 
   movies (🎞️) .
@@ -31,8 +32,13 @@
  <img align="center" alt="bootstap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
  <img align="center" alt="Word-Press" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
  <img align="center" alt="Vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+ <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  
-
+ ### Estou aprendendo
+ 
+ <div style="display: inline_block"><br>
+ <img align="center" alt="React" height="30" width="40" src=https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg
+ </div>
  </div>
  
  ##
