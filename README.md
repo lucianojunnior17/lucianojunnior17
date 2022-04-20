@@ -3,8 +3,11 @@
 
 ### Olá, me chamo Luciano Lima Jr ! 
 ### Bem vindo ao meu perfil GitHub 👋👋
+  
+  PT-Br) Apaixonado por tecnologia e fã da cultura pop japonesa e gosto de assistir filmes. Acredito que a tecnologia está mudando o mundo e está ficando cada vez melhor, graduando em engenharia da computação aberto aos novos desafios. ✌️
+   <br>
  I'm Luciano Jr. from Brazil 🇧🇷 Passionate about tech 🖥️,
-  nerd and fan of Japanese pop culture  and  like to watch  Marvel 
+  nerd and fan of Japanese  culture  and  like to watch  Marvel 
   movies (🎞️) .
  I believe that technology is changing the world and it's
   getting better because of that,
@@ -15,8 +18,7 @@
    
    <br>
    
-   PT-Br) Apaixonado por tecnologia e fã da cultura pop japonesa e gosto de assistir filmes. Acredito que a tecnologia está mudando o mundo e está ficando cada vez melhor, graduando em engenharia da computação aberto aos novos desafios. ✌️
-   <br>
+   
    
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianojunnior17&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
