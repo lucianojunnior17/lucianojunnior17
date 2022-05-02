@@ -50,15 +50,16 @@
  
  ##
  
+<div align="Center>
+  <p align="center"> 
 
- <p align="center"> 
+  ## Total de Visitas no perfil :detective: <br>
+   <p align="center"> 
+    <img alingn="center" src="https://profile-counter.glitch.me/lucianojunnior17/count.svg" />
+  </p>
 
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/lucianojunnior17/count.svg" />
  </p>
-
-</p>
+ </div>
 
 </div>
 
