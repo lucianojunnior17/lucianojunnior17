@@ -1,7 +1,7 @@
 <div>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucianojunnior17" alt="lucianojunnior17" /> 
 
-### Olá, meu nome é  Luciano Lima Jr ! 
+### Olá, meu nome é  Luciano ! 
 ### Bem vindo ao meu perfil GitHub 👋👋
   
  Apaixonado por tecnologia e fã da cultura pop japonesa e gosto de assistir filmes. Acredito que a tecnologia está mudando o mundo e está ficando cada vez melhor, graduando em engenharia da computação aberto aos novos desafios. ✌️
